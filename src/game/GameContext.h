@@ -2,7 +2,7 @@
 #define GAMECONTEXT_H_
 #include <vector>
 #include "LinkList.h"
-#include "Context.h"
+#include "../Context.h"
 class GameObject;
 class GameContext : public Context {
 public:
