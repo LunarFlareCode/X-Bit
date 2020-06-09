@@ -1,5 +1,5 @@
 #include "CentralManager.h"
-#include "game/GameContext.h"
+#include "GameContext.h"
 #include "Context.h"
 
 CentralManager::CentralManager() {
